@@ -1,0 +1,14 @@
+homepageurl: https://jobs.v.je/index.html.php
+adminusername: jo
+adminpassword: letmein
+typeofuser:admin
+
+
+staffusername: staff
+staffpassword: staff
+typeofuser:Staff
+
+
+visitorusername: visitor
+visitorpassword: visitor
+typeofuser:user
